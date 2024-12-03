@@ -1,4 +1,8 @@
 ## Hi there 👋
+NATAN GIASSI \n
+Units Student 2024-TBD \n
+
+
 
 <!--
 **General-Kainobi/General-Kainobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
