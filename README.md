@@ -1,11 +1,15 @@
 ## Hi there 👋
 NATAN GIASSI 
 
+$ Units Student studying AI and Data Analytics 
+  - 2024-TBD 
 
 
+- 🔭 I’m currently working on studying hard and climbing rocks
+- 🌱 I’m currently learning everything on AI and Data science
+- 📫 How to reach me: natan.giassi@gmail.com
+- ⚡ Fun fact: I lived for 10 years in Australia
 
-
-Units Student 2024-TBD 
 
 
 
